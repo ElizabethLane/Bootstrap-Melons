@@ -1,0 +1,21 @@
+.navbar-header {
+    color: red; 
+    }
+
+.navbar-default {
+    background-color: yellowgreen;
+}
+
+#horny-melon {
+    width: 500px;
+    /*text-align: center;*/
+}
+
+#text-desc {
+    text-align: center;
+    float: inherit;
+}
+
+#text-main {
+    text-align: center;
+}
